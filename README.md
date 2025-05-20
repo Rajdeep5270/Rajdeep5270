@@ -1,6 +1,6 @@
 <!-- 🚀 Welcome to the Rajdeep Codeverse -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWM4MGZiYjk3MjlkNjE4MWEyYzFlOWRmZjhlZjQ5ZTlkYjJmYzQ4ZGI4MyZjdD1n/cdbtfuwu22vc/giphy.gif" width="300" alt="The Coding Voyager" />
+  <img src="https://raw.githubusercontent.com/rajdeep5270/your-repo-name/main/images/coding-voyager.gif" width="300" alt="The Coding Voyager" />
 </p>
 
 <h1 align="center">👾 Rajdeep Singh Shekhawat - Code Voyager 👾</h1>
@@ -11,13 +11,13 @@
 ### 💥 **The Universe of Rajdeep’s Code Journey**
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="350" alt="Coding in Space" />
+  <img src="https://raw.githubusercontent.com/rajdeep5270/your-repo-name/main/images/coding-in-space.gif" width="350" alt="Coding in Space" />
 </p>
 
 ### 🌌 **What I'm Up To Right Now**
 
 <p align="center">
-  <img src="https://media.giphy.com/media/1B9p66GKNtvmmEoDi7/giphy.gif" width="400" alt="Learning C Language" />
+  <img src="https://raw.githubusercontent.com/rajdeep5270/your-repo-name/main/images/learning-c.gif" width="400" alt="Learning C Language" />
 </p>
 
 ---
@@ -25,7 +25,7 @@
 ### 🛠️ **Tools in My Toolkit**
 
 <p align="center">
-  <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="500" alt="Tech Tools" />
+  <img src="https://raw.githubusercontent.com/rajdeep5270/your-repo-name/main/images/tech-tools.gif" width="500" alt="Tech Tools" />
 </p>
 
 <p align="center">
@@ -39,34 +39,21 @@
 
 ---
 
-### 🧑‍🚀 **Exploring the Codeverse**
-
-<p align="center">
-  <img src="https://media.giphy.com/media/1bUSKQmtdohaw/giphy.gif" width="300" alt="Code Astronaut" />
-</p>
-
-**Mission Logs**:  
-🚀 **HTML & CSS**: The building blocks of the web universe!  
-🚀 **JavaScript**: Defying the laws of space with interactive UIs.  
-🚀 **C & C++**: Embarking on an intergalactic journey of low-level coding.
-
----
-
 ### 😂 **Coding Meme Zone**
 
 <p align="center">
-  <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="300" alt="Developer Meme" />
+  <img src="https://media.giphy.com/media/1B9p66GKNtvmmEoDi7/giphy.gif" width="300" alt="Dev Meme 1" />
 </p>
 
-> **When the code runs perfectly the first time**  
-> 😎 "I am the master of the code universe!"  
+> **When the code works on the first try:**  
+> 😎 *"I am the coding master!"*
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l378khQXtqI31ba2A/giphy.gif" width="400" alt="Debugging Meme" />
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWBlEk/giphy.gif" width="400" alt="Dev Meme 2" />
 </p>
 
-> **When debugging goes wrong:**  
-> 😱 "Help! I’m lost in the matrix!"
+> **When debugging is going well:**  
+> 🤓 *"Yes! The bugs are no match for me!"*
 
 ---
 
@@ -89,7 +76,7 @@
 ### 🚀 **How to Contact the Voyager**
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWBlEk/giphy.gif" width="350" alt="Contact Me" />
+  <img src="https://media.giphy.com/media/3o7WIpZxQJjrwQ1FO0/giphy.gif" width="350" alt="Contact Me" />
 </p>
 
 - 💬 **Instagram:** [@rajdeep_singh_shekhawat__](https://instagram.com/___rajdeep_singh_shekhawat__)  
