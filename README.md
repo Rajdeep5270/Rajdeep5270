@@ -1,120 +1,60 @@
-<!-- 🚀 Welcome to the Rajdeep Codeverse -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rajdeep5270/your-repo-name/main/images/coding-voyager.gif" width="300" alt="The Coding Voyager" />
-</p>
+# 👨‍💻 Rajdeep Singh Shekhawat
 
-<h1 align="center">👾 Rajdeep Singh Shekhawat - Code Voyager 👾</h1>
-<h3 align="center">Frontend Developer | Space Explorer | Meme Enthusiast 🚀</h3>
+## 🌐 Frontend Developer | Passionate Coder | Web Enthusiast
+
+Welcome to my GitHub profile! I'm Rajdeep, a passionate frontend developer from Surat, Gujarat, currently diving deep into web technologies and always learning new things. 🚀
 
 ---
 
-### 💥 **The Universe of Rajdeep’s Code Journey**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rajdeep5270/your-repo-name/main/images/coding-in-space.gif" width="350" alt="Coding in Space" />
-</p>
-
-### 🌌 **What I'm Up To Right Now**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rajdeep5270/your-repo-name/main/images/learning-c.gif" width="400" alt="Learning C Language" />
-</p>
+### 🔭 **Currently working on**:
+- Mastering **JavaScript** ⚡
+- Exploring the world of **C Language** 🖥️
+- Building interactive **web projects** with **HTML**, **CSS**, and **Bootstrap** 💻
 
 ---
 
-### 🛠️ **Tools in My Toolkit**
+### 💼 **Technologies & Tools** 🛠️
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rajdeep5270/your-repo-name/main/images/tech-tools.gif" width="500" alt="Tech Tools" />
-</p>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" />
-</p>
+- **Languages**: HTML, CSS, JavaScript, C, C++ 🌱
+- **Frameworks & Libraries**: Bootstrap, React ⚛️
+- **Version Control**: Git, GitHub 🗂️
+- **Text Editors**: Visual Studio Code 🖱️
 
 ---
 
-### 😂 **Coding Meme Zone**
-
-<p align="center">
-  <img src="https://media.giphy.com/media/1B9p66GKNtvmmEoDi7/giphy.gif" width="300" alt="Dev Meme 1" />
-</p>
-
-> **When the code works on the first try:**  
-> 😎 *"I am the coding master!"*
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWBlEk/giphy.gif" width="400" alt="Dev Meme 2" />
-</p>
-
-> **When debugging is going well:**  
-> 🤓 *"Yes! The bugs are no match for me!"*
+### 🌱 **What I'm Learning** 📚
+- Deepening my knowledge in **JavaScript** 💡
+- Exploring **C Language** for better understanding of low-level programming 🔍
 
 ---
 
-### 🌠 **GitHub Stats: My Intergalactic Journey**
+### 📫 **How to Reach Me** 📧:
+- Email: [rajdeepex5270@gmail.com](mailto:rajdeepex5270@gmail.com) 📬
+- GitHub: [github.com/rajdeep5270](https://github.com/rajdeep5270) 👨‍💻
+- Instagram: [@rajdeep_singh_shekhawat](https://instagram.com/___rajdeep_singh_shekhawat__) 📸
+
+---
+
+### 📈 **GitHub Stats** 📊
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajdeep5270&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rajdeep5270&show_icons=true&theme=tokyonight&hide_border=true" alt="Rajdeep's Stats" />
 </p>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rajdeep5270&theme=dracula&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajdeep5270&layout=compact&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajdeep5270&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 🚀 **How to Contact the Voyager**
+### 💬 **Let's Collaborate!** 🤝
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7WIpZxQJjrwQ1FO0/giphy.gif" width="350" alt="Contact Me" />
-</p>
-
-- 💬 **Instagram:** [@rajdeep_singh_shekhawat__](https://instagram.com/___rajdeep_singh_shekhawat__)  
-- 📱 **WhatsApp:** [Message Me Here](https://wa.me/917600758438)  
-- 💻 **GitHub:** [Check out my repositories](https://github.com/rajdeep5270)  
+I'm always looking to collaborate on interesting projects. If you're passionate about coding and building cool things, feel free to reach out! 💬
 
 ---
 
-### 🚀 **Side Quests**
-
-<p align="center">
-  <img src="https://media.giphy.com/media/fSrrzLtjl84Bq/giphy.gif" width="350" alt="Side Quests" />
-</p>
-
-🎯 **Building a personal portfolio**  
-🎮 **Making a fun JavaScript game**  
-💥 **Debugging code like a true hero**
+### 🚀 **Fun Fact**:
+- Started my coding journey with **Turbo C++** in 2025 while building modern web projects with **HTML**, **CSS**, and **JavaScript**! 🎉
 
 ---
 
-### 🎮 **Game On, Code Warrior!**
-
-<p align="center">
-  <img src="https://media.giphy.com/media/Ju7l2S1Xw3hdfEpoVx/giphy.gif" width="300" alt="Game Over Meme" />
-</p>
-
-**Ready to conquer the dev world?** I know I am!
-
----
-
-### 🌈 **Thanks for Stopping By!**
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWBlEk/giphy.gif" width="350" alt="Coding Universe" />
-</p>
-
----
-
-### **Want More?**
-
-- I'm always available for new collaborations, side quests, and new **coding galaxies to explore**. Let me know what you're up to!
+**Thanks for visiting! Let's build something amazing together!** 🌟
