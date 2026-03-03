@@ -1,113 +1,73 @@
-<!-- 🌌 Rajdeep Singh Shekhawat | Logic × Motion × Creativity -->
+# Rajdeep's Personal Repository 🎉
 
-<!-- Typing SVG Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hey+I'm+Rajdeep+Singh+Shekhawat+👋;Logic+%7C+Motion+%7C+Creativity;C%2FC%2B%2B+%7C+DSA+%7C+GSAP;Turning+Logic+Into+Motion+🚀">
-</p>
+Welcome to my personal GitHub repository! I'm **Rajdeep**, a passionate software developer with a keen interest in building engaging web experiences, interactive applications, and exploring new technologies. This repository showcases a variety of projects including animations, games, web applications, and coding challenges. 
 
-<!-- Hacker Banner -->
-<p align="center">
-  <img src="https://i.ibb.co/VqN3nF6/hacker-dark.gif" width="100%" alt="Rajdeep Coding Banner" />
-</p>
-
-<h1 align="center">⚡ Logic × Motion × Creativity ⚡</h1>
-
-<p align="center">
-  <a href="https://my-portfolio-ashen-seven-34.vercel.app">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Explore_My_Work-00adb5?style=for-the-badge&logo=vercel&logoColor=white">
-  </a>
-  <a href="mailto:rajdeepex5270@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Mail-Me-ff4757?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://github.com/Rajdeep5270?tab=repositories">
-    <img src="https://img.shields.io/badge/💾_GitHub-Repositories-222831?style=for-the-badge&logo=github">
-  </a>
-</p>
+<img src="https://media.giphy.com/media/3o7aD4p8g9ch3CXZ7W/giphy.gif" alt="coding gif" width="100" />
 
 ---
 
-## 🧠 About Me
+## 🚀 About Me
 
-🧑‍💻 **Rajdeep Singh Shekhawat** — a developer who codes with **logic** and designs with **motion**.  
-I live in dark terminals, breathe semicolons, and dream in animations.  
-
-🎯 **My Universe:**
-- ⚙️ **C / C++ / DSA** — where I sharpen logic like a blade.  
-- 🎨 **GSAP / Frontend** — where I make pixels dance.  
-- 🧩 **Problem Solving** — because bugs fear me.  
-- ☕ Motto → *"Code hard, Animate harder."*
+- 🌐 Full-stack enthusiast with experience in JavaScript, C/C++, and Node.js.
+- 🎨 Lover of animations, visual effects, and interactive UI design.
+- 📚 Always learning and exploring new tools, frameworks, and languages.
 
 ---
 
-## 💻 Tech Arsenal
+## ⭐ Featured Projects
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,bootstrap,react,gsap,git,github,vscode&theme=dark" />
-</p>
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| Kanban To-Do App | Simple task manager with drag-and-drop cards | HTML, CSS, JavaScript |
+| GSAP Animations | Collection of interactive animations and tutorials | GSAP, HTML, CSS, JS |
+| Expense Tracker App | Track expenses with charting and storage | HTML, JS |
+| E-Commerce API | Backend API for online store | Node.js, Express, MongoDB |
+| Company Task Management System | Full-stack company task manager | Node.js, Express, EJS, MongoDB |
+| JS Playground | Code snippets and JavaScript learning exercises | JavaScript |
+| AI Chatbot App | Simple web interface for AI chat integration | HTML, JS, OpenAI API |
 
----
-
-## 🔥 Featured Repositories
-
-### 🧮 [The C++ Diaries](https://github.com/Rajdeep5270/the-cpp-diaries)
-> My world of **C++ patterns**, loops, logic & madness.
-
-### ⚙️ [SeePlusPlusMadness](https://github.com/Rajdeep5270/SeePlusPlusMadness)
-> A temple for **logic programs + DSA**, where bugs are sacrificed.
-
-### 🎬 [GSAP Animated Journey](https://github.com/Rajdeep5270/Animated-Journey)
-> Where **JavaScript meets motion**. Smooth, wild, and infinite.
-
-### 🏗️ [BT Construction Project](https://github.com/Rajdeep5270/bt-construction-project)
-> A clean, responsive **Bootstrap** masterpiece for real-world layouts.
+> 🔗 *Explore each folder in the repository for detailed code, demos, and usage instructions.*
 
 ---
 
-## 📊 GitHub Stats
+## 🎨 Animations & Games
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajdeep5270&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajdeep5270&theme=tokyonight&hide_border=true" height="165" />
-</p>
+- **GSAP Animations**: Dive into smooth, performant animations. Check the `GSAP Animations` folder for chapters and a final project. <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="animation gif" width="80" />
+- **Interactive Games**: Browse through `JS Playground` and `GSAP Animations` for browser games and interactive experiences. <img src="https://media.giphy.com/media/xT0xezQGU5xCDJuCPe/giphy.gif" alt="game gif" width="80" />
 
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rajdeep5270&theme=darkhub&no-frame=true&row=1&margin-w=10" />
-</p>
+> 💡 *Many projects include live previews—open the `index.html` files in your browser to see them in action.*
 
 ---
 
-## 📚 Language Stats
+## 🛠️ Technologies & Tools
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajdeep5270&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
-
-## ⚡ Quote That Defines Me
-
-> “If it moves — it’s GSAP.  
-> If it loops — it’s C++.  
-> If it works — it’s probably luck.”
+- **Languages**: JavaScript, HTML5, CSS3, C, C++
+- **Libraries/Frameworks**: GSAP, Node.js, Express
+- **Databases**: MongoDB
+- **Tools**: VS Code, Git, GitHub
 
 ---
 
-## 🌐 Connect With Me
+## 🎯 Goals & Roadmap
 
-<p align="center">
-  <a href="https://my-portfolio-ashen-seven-34.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit_My_Site-00adb5?style=for-the-badge&logo=vercel" /></a>
-  <a href="mailto:rajdeepex5270@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-ff4757?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://github.com/Rajdeep5270"><img src="https://img.shields.io/badge/GitHub-Rajdeep5270-171515?style=for-the-badge&logo=github" /></a>
-</p>
+1. ✨ Add more polished animations and interactive web games.
+2. 🔗 Integrate modern frontend frameworks like React or Vue.
+3. 📱 Build mobile-friendly versions of existing apps.
+4. 🤝 Collaborate on open-source projects and contribute to the community.
 
 ---
 
-<h3 align="center">💥 Rajdeep Singh Shekhawat — Where Logic Meets Animation 💻⚡</h3>
+## 🙌 Author
 
-<p align="center">
-  <img src="https://i.ibb.co/6rHxJFt/coding-meme.gif" width="300" alt="Coding Meme">
-</p>
+👨‍💻 Rajdeep Singh  
+Full Stack Developer | Creative Coder | Animation Enthusiast  
+
+🌐 Portfolio: [rajdeepsingh.vercel.app](https://rajdeep-codefolio.vercel.app)  
+🔗 GitHub: [github.com/Rajdeep5270](https://github.com/Rajdeep5270)  
+💼 LinkedIn: [linkedin.com/in/rajdeep-singh](https://www.linkedin.com/in/rajdeep-singh/)  
+
+---
+
+> Thanks for visiting! Don't forget to ⭐ the repo if you find something interesting. 😊
+>
+> <img src="https://media.giphy.com/media/3o6Mbn044X6TLJY7Wc/giphy.gif" alt="thank you gif" width="120" />
